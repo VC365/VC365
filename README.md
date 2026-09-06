@@ -2,12 +2,12 @@
 
 ### 💡 About Me
 
-- 💻 Web developer
+- 💻 Full Stack Developer
 - ⚡ I’m currently learning Crystal Language
-- 🌱 I love linux
+- 🌱 I love linux & CRYSTAL
 
 ---
 
 <div align="center">
-  <b> dood 🚀</b>
-</div><meta name="google-site-verification" content="fTc6wXBw1CJE5HlxXKkVJoCNqg8n_MsYGSSBLKvPUVI" />
+  <b>dood 🚀</b>
+</div>
